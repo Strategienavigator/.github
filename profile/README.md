@@ -6,7 +6,7 @@ geplant. Aber auch allen Interessierten stehen die Werkzeuge zur Verfügung.
 
 Das Projekt wird an der [Jade Hochschule](https://www.jade-hs.de/) :link: in Wilhelmshaven am [Fachbereich Management Information Technologie](https://www.jade-hs.de/mit/) :link: entwickelt.
 
-## Autoren
+## Entwickler
 
 - <img src="https://avatars.githubusercontent.com/u/37940313?v=4" width=25 height=25 /> [Claas Wittig](https://github.com/Geist5000)
 - <img src="https://avatars.githubusercontent.com/u/43421445?v=4" width=25 height=25 /> [Nichlas Schipper](https://github.com/nic-schi)
