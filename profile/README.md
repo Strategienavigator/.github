@@ -13,7 +13,7 @@ Das Projekt wird an der [Jade Hochschule](https://www.jade-hs.de/) :link: in Wil
 - <img src="https://avatars.githubusercontent.com/u/22887392?v=4" width=25 height=25 /> [Marco Janssen](https://github.com/ma1160)
 - <img src="https://avatars.githubusercontent.com/u/90765305?v=4" width=25 height=25 /> [Omar Kanoune](https://github.com/omarkano)
 
-## Verantwortlich
+## Verantwortliche
 
 - <img src="https://avatars.githubusercontent.com/u/9083430?v=4" width=25 height=25 /> [Rico Meiner](https://github.com/ricom)
 - [Prof. Christian Gündling](https://www.jade-hs.de/team/christian-guendling/) :link:
