@@ -21,6 +21,5 @@ Das Projekt wird an der [Jade Hochschule](https://www.jade-hs.de/) :link: in Wil
 ## Weitere Links
 
 - [Strategienavigator](https://strategie-navigator.jade-hs.de) :link:
-- [Kanban-Board](https://trello.com/b/3LQKqFb4/projekt-strategietools) :link:
 - [Moodle](https://moodle.jade-hs.de/moodle/course/view.php?id=521&section=4) :link:
 - [Frontend-Mockup](https://miro.com/app/board/o9J_lQVIbY0=/) :link:
