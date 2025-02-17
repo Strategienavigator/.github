@@ -8,7 +8,7 @@ Das Projekt wird an der [Jade Hochschule](https://www.jade-hs.de/) :link: in Wil
 
 ## Entwickler
 
-- <img src="https://avatars.githubusercontent.com/u/37940313?v=4" width=25 height=25 /> [Claas Wittig](https://github.com/Geist5000)
+- <img src="https://avatars.githubusercontent.com/u/37940313?v=4" width=25 height=25 /> [Claas Wittig](https://github.com/G3sit)
 - <img src="https://avatars.githubusercontent.com/u/43421445?v=4" width=25 height=25 /> [Nichlas Schipper](https://github.com/nic-schi)
 - <img src="https://avatars.githubusercontent.com/u/22887392?v=4" width=25 height=25 /> [Marco Janssen](https://github.com/ma1160)
 - <img src="https://avatars.githubusercontent.com/u/90765305?v=4" width=25 height=25 /> [Omar Kanoune](https://github.com/omarkano)
